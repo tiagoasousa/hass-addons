@@ -4,7 +4,7 @@ arch:
 - armv7
 - armhf
 description: Promtail for Home Assistant
-image: ghcr.io/tiagoasousa/promtail/{arch}
+image: ghcr.io/tiagoasousa/promtail
 init: false
 journald: true
 map:
