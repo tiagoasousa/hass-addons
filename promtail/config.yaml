@@ -35,5 +35,5 @@ schema:
   skip_default_scrape_config: bool?
 slug: promtail
 url: https://github.com/tiagoasousa/addon-promtail
-version: 2.2.0
+version: latest
 watchdog: http://[HOST]:[PORT:9080]/ready
